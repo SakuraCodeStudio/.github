@@ -43,6 +43,4 @@ Thank you to all the amazing people who support SakuraCodeStudio! (´▽\`ʃ♡�
 
 ---
 
-Hope you like this cute GitHub homepage dedicated to SakuraCodeStudio! Remember to create a CONTRIBUTING.md file for contribution guidelines! We look forward to building a brighter future with code together! 💖
-
-希望你喜欢这份专门为 SakuraCodeStudio 打造的可爱 GitHub 主页！ 记得创建 CONTRIBUTING.md 文件来说明贡献指南！ 期待和大家一起用代码创造更美好的未来！ 💖
+Hope you like this cute GitHub homepage dedicated to SakuraCodeStudio! Remember to create a CONTRIBUTING.md file for contribution guidelines! We look forward to building a brighter future with code together! 
