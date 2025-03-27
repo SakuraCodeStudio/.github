@@ -41,5 +41,3 @@ Thank you to all the amazing people who support SakuraCodeStudio! (´▽\`ʃ♡�
 
 感谢所有支持 SakuraCodeStudio 的小伙伴们！ (´▽\`ʃ♡ƪ) 你们的支持和鼓励激励我们不断创造和突破可能的界限！
 
----
-
