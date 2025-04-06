@@ -10,7 +10,7 @@ SakuraCodeStudio 就像一片盛开的樱花林，充满着活力和创造力！
 
 *   **工作室名称 (Studio Name):** SakuraCodeStudio
 *   **主要语言 (Main Language):** Go (Golang) 🐹
-*   **工作室主页 (Studio Website):** [Sakura.starmoon.top](Sakura.starmoon.top) 🏠 (欢迎来我们的网站玩耍！/ Welcome to visit our website!)
+*   **工作室主页 (Studio Website):** [sakura.loliyuri.moe](https://sakura.loliyuri.moe) 🏠 (欢迎来我们的网站玩耍！/ Welcome to visit our website!)
 *   **我们的愿景 (Our Vision):** 用代码创造美好的未来！ / Creating a better future with code! ✨
 *   **我们的使命 (Our Mission):** 构建创新、可靠、易用的开源解决方案。 / Building innovative, reliable, and user-friendly open-source solutions. 🚀
 
@@ -20,7 +20,7 @@ If you are interested in our studio, want to collaborate, or simply want to say 
 
 如果你对我们的工作室感兴趣，想与我们合作，或者只是想打个招呼，欢迎随时联系我们！ (ﾉ´ヮ´)ﾉ\*:･ﾟ✧
 
-*   **邮箱 (Email):** sakura@starmoon.top 📧
+*   **邮箱 (Email):** sakura@loliyuri.moe 📧
 *   **GitHub Issues:** 欢迎在我们的仓库页面提交 Issues，提出建议或报告问题！/ Welcome to submit Issues on our repository pages to provide suggestions or report problems!
 *   **其他 (Others):** (其他联系方式，例如 QQ 群、微信群等 / Other contact methods, such as QQ groups, WeChat groups, etc.)
 
